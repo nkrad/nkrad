@@ -2,4 +2,6 @@
 
 Software Developer
 
-I'm a real human
+email me@nkrad.ca
+
+www.nkrad.ca
