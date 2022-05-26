@@ -4,6 +4,6 @@ Software Developer
 
 
 
-email me@nkrad.ca
+email nick@nkrad.ca
 
 www.nkrad.ca
