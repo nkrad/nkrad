@@ -6,4 +6,4 @@ Software Developer
 
 email nick@nkrad.ca
 
-[nkrad.ca](nkrad.ca)
+www.nkrad.ca
